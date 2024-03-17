@@ -9684,3 +9684,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    
+.animate-box {
+  display: flex;
+  align-items: center;
+}
+
+.skills img{
+  width: 100px;
+}
